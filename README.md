@@ -10,11 +10,11 @@
   </a>
 </div>
 <h1>
-  hii :upside_down_face:
+  hii :vulcan_salute:
 </h1>
 
 
-### :vulcan_salute: About Me :
+### :upside_down_face: About Me :
 - I work as a Back End Developer, providing technical support to make sure everything runs smoothly. 
 - I also write technical content as it helps me learn. 
 - To stay sane in the field, I rely on three pillars: my faith, a good cup of coffee, and regular trips to the gym.
