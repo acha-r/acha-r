@@ -10,11 +10,9 @@
   </a>
 </div>
 <h1>
-  hii :-)
+  hii :upside_down_face:
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/BACNp4PYgXACSPujxi/giphy.gif" width="600" height="300"/>
-</div>
+
 
 ### :vulcan_salute: About Me :
 - I work as a Back End Developer, providing technical support to make sure everything runs smoothly. 
